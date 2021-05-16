@@ -1,4 +1,5 @@
-##ONLINE STORE
+## ONLINE STORE
+
 **Current Functionality**
 
 * Product Pages
